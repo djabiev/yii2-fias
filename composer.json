@@ -1,5 +1,5 @@
 {
-  "name": "solbianca/yii2-fias",
+  "name": "djabiev/yii2-fias",
   "description": "Fias base for your site",
   "type": "yii2-extension",
   "keywords": [
@@ -12,8 +12,8 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "SolBianca",
-      "email": "neivweb@gmail.com"
+      "name": "Djabiev",
+      "email": "djabiev@gmail.com"
     }
   ],
   "require": {
