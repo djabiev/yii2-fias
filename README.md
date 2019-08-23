@@ -34,7 +34,7 @@ Fork solbianca/yii2-fias
 -------------------
 Установить модуль с помощью композера:
 ````
-    composer require solbianca/yii2-fias "dev-master"
+    composer require solbianca/yii2-fias
 ````
 
  Применить миграции:
